@@ -17,5 +17,5 @@ A dog adoption agency project. (Hooks &amp; Context API)
 
 
 
-![alt text](https://github.com/varunswarup0/complete-intro-to-react-v5/blob/master/Screenshot_2020-03-27%20Adopt%20Me.png)
+![alt text](https://raw.githubusercontent.com/varunswarup0/mock-ups/main/adopt-me/adoptMe-mockup.png)
 
